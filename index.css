@@ -1,4 +1,9 @@
-<style>
-	body {background-color: rgb(255, 220, 220); margin-left: 1cm; font-family: "helvetica neue light"; text-align: justify;}
-	h1, h2 {font-family: "Helvetica Neue medium";}
-</style>
+body {
+	background-color: rgb(255, 220, 220);
+	font-family: "helvetica neue light";
+	text-align: justify;
+	padding: 3cm;
+}
+h1, h2 {
+	font-family: "Helvetica Neue medium";
+}
