@@ -1,9 +1,12 @@
 body {
-	background-color: rgb(255, 220, 220);
+	background-color: #ffdcdc;
 	font-family: "helvetica neue light";
 	text-align: justify;
 	padding: 3cm;
 }
 h1, h2 {
 	font-family: "Helvetica Neue medium";
+}
+A:over{
+	color: green
 }
