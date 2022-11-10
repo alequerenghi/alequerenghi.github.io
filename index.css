@@ -1,11 +1,28 @@
 body {
-	background-color: #ffdcdc;
+	background: #ffdcdc fixed;
 	text-align: justify;
+	text-align-last: left;
 	padding: 3cm;
+	background-size: 10cm;
 }
 *{
-	font-family: "helvetica neue light", arial;
+	font-family: "helvetica neue light", "arial";
 }
 A:over{
 	color: green
+}
+h1{
+	margin:auto;
+	border-radius: 15px;
+	border: solid rgb(255, 80, 150);
+	width: 10em;
+	background-color: rgb(255, 80, 150);
+}
+div{
+	height: 200px;
+	background-color: #00ffff;
+	overflow: auto;
+}
+img{
+	float: left;
 }
