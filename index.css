@@ -4,6 +4,7 @@ body {
 	width: 10cm 11cm;
 	margin: 1cm 3cm 2cm 3cm;
 	max-width: 20cm;
+	font-size: 1em;
 }
 
 * {
@@ -40,6 +41,7 @@ li a:hover {
 
 li {
 	float: left;
+	font-size: 1em;
 }
 
 Li a {
