@@ -32,6 +32,7 @@ ul.nav {
 	background-color: rgb(255, 120, 150);
 	overflow: hidden;
 	border-radius: 3px;
+	height: 2em;
 }
 
 li a:hover {
